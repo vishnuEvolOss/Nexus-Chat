@@ -1,5 +1,5 @@
 {
-  "name": "nexus",
+  "name": "nexus-chat-app",
   "version": "1.0.0",
   "main": "index.js",
   "engines": {
